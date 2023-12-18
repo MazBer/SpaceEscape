@@ -32,9 +32,8 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 3 sürümü olup birçok e
   
 ## Screenshots
 
-![Main Menu](https://github.com/MazBer/Space-Escape/assets/134061058/37fa932e-217e-4546-99d0-baf29e3fb2e5)
-
-![Gameplay](https://github.com/MazBer/Space-Escape/assets/134061058/c7fa3877-09b2-409f-9bb8-cc2e432abe06)
+![Main Menu](https://github.com/MazBer/SpaceEscape/assets/134061058/5a1bb320-07be-4544-861e-2c972819382e)
+![Gameplay](https://github.com/MazBer/SpaceEscape/assets/134061058/e6904046-370e-4deb-bbb0-91bb0e555556)
   
 ## Road Map
 
@@ -85,6 +84,6 @@ Herhangi bir geri bildiriminiz varsa, lütfen mazharberkaydogdu@gmail.com adresi
   
 ## Logos
 
-![Space Escape Logo](https://github.com/MazBer/Space-Escape/assets/134061058/4d7b278e-9af2-4b3e-9d0f-9c42afe88054)
+![Space Escape Logo](https://github.com/MazBer/SpaceEscape/assets/134061058/4ab124f0-216f-4d0c-81e2-c640e5a78c97)
 
-<img width="375" alt="CalGame" src="https://github.com/MazBer/Space-Escape/assets/134061058/ad19ffec-2a5e-4846-be08-552cf7b8825b">
+<img width="375" alt="CalGame Logo" src="https://github.com/MazBer/SpaceEscape/assets/134061058/b00b527f-b3e0-458d-b116-8a485075d16e">
