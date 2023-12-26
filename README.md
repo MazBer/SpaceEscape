@@ -2,33 +2,31 @@
 
 #### ING
 
-I have created a simple game using Unity. It is the Beta 4 version and it has many shortcomings. I would be very happy if you could share your ideas.
+I have created a simple game using Unity. It is the Beta 0.06 version and it has many shortcomings. I would be very happy if you could share your ideas.
 
 #### TR
 
-Unity'yi kullanarak basit bir oyun geliştirdim. Beta 3 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
+Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.06 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
 
 
 ## News
 
 #### ING
-- UI bugs fixed.
-- Background bugs fixed.
-- Twenty planets were added for the background.
-- Ruby added.
+- Fixed bug about difficulty.
+- Four planets were added for the background.
 - UI has been updated.
-- Random planet generation added.
-- The location of the generated planets has been made random.
-- The rotation of the generated planets has been made random.
+- Ranks have been added to the game.
+- Settings scene added.
+- Space Way scene added.
+- Bugs in the planets have been fixed.
 #### TR
-- UI hataları düzeltildi.
-- Arka plan hataları düzeltildi.
-- Arka plan için yirmi gezegen eklendi.
-- Yakut eklendi.
+- Zorlukla ilgili hata düzeltildi.
+- Arka plan için dört gezegen eklendi.
 - UI güncellendi.
-- Oluşturulan gezegenlere rastgelelik eklendi.
-- Oluşturulan gezegenlerin konumuna rastgelelik eklendi.
-- Oluşturulan gezegenlerin rotasyonuna rastgelelik eklendi.
+- Rütbeler oyuna eklendi.
+- Ayarlar sahnesi eklendi.
+- Uzay Yolu sahnesi eklendi.
+- Gezegenler ile ilgili hatalar düzeltildi.
   
 ## Screenshots
 
@@ -44,8 +42,6 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 3 sürümü olup birçok e
 
 - Adding difficulty setting.
 
-- Adding About screen.
-
 - Adding money system.
 
 #### TR
@@ -54,8 +50,6 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 3 sürümü olup birçok e
 - Ayarlar ekleme.
 
 - Zorluk ayarı ekleme.
-
-- Hakkında sayfası ekleme.
 
 - Para sistemi ekleme.
 
