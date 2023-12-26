@@ -2,25 +2,31 @@
 
 #### ING
 
-I have created a simple game using Unity. It is the Beta 0.05 version and it has many shortcomings. I would be very happy if you could share your ideas.
+I have created a simple game using Unity. It is the Beta 0.06 version and it has many shortcomings. I would be very happy if you could share your ideas.
 
 #### TR
 
-Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.05 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
+Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.06 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
 
 
 ## News
 
 #### ING
-- UI bugs fixed.
-- Three planets were added for the background.
+- Fixed bug about difficulty.
+- Four planets were added for the background.
 - UI has been updated.
-- Textures have been renewed.
+- Ranks have been added to the game.
+- Settings scene added.
+- Space Way scene added.
+- Bugs in the planets have been fixed.
 #### TR
-- UI hataları düzeltildi.
-- Arka plan için üç gezegen eklendi.
+- Zorlukla ilgili hata düzeltildi.
+- Arka plan için dört gezegen eklendi.
 - UI güncellendi.
-- Dokular yenilendi.
+- Rütbeler oyuna eklendi.
+- Ayarlar sahnesi eklendi.
+- Uzay Yolu sahnesi eklendi.
+- Gezegenler ile ilgili hatalar düzeltildi.
   
 ## Screenshots
 
@@ -36,8 +42,6 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.05 sürümü olup birço
 
 - Adding difficulty setting.
 
-- Adding About screen.
-
 - Adding money system.
 
 #### TR
@@ -46,8 +50,6 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.05 sürümü olup birço
 - Ayarlar ekleme.
 
 - Zorluk ayarı ekleme.
-
-- Hakkında sayfası ekleme.
 
 - Para sistemi ekleme.
 
