@@ -15,10 +15,12 @@ Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.07 sürümü olup birço
 - Seven planets were added for the background.
 - UI has been updated.
 - Shortcuts added.
+- Ships scene added.
 #### TR
 - Arka plan için yedi gezegen eklendi.
 - UI güncellendi.
 - Kısayollar eklendi.
+- Ships sahnesi eklendi.
   
 ## Screenshots
 
