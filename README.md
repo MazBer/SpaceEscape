@@ -1,32 +1,26 @@
-# Space-Escape
+# Space Escape
 
 #### ING
 
-I have created a simple game using Unity. It is the Beta 0.06 version and it has many shortcomings. I would be very happy if you could share your ideas.
+I have created a simple game using Unity. It is the Beta 0.07 version and it has many shortcomings. I would be very happy if you could share your ideas.
 
 #### TR
 
-Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.06 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
+Unity'yi kullanarak basit bir oyun geliştirdim. Beta 0.07 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
 
 
 ## News
 
 #### ING
-- Fixed bug about difficulty.
-- Four planets were added for the background.
+- Seven planets were added for the background.
 - UI has been updated.
-- Ranks have been added to the game.
-- Settings scene added.
-- Space Way scene added.
-- Bugs in the planets have been fixed.
+- Shortcuts added.
+- Ships scene added.
 #### TR
-- Zorlukla ilgili hata düzeltildi.
-- Arka plan için dört gezegen eklendi.
+- Arka plan için yedi gezegen eklendi.
 - UI güncellendi.
-- Rütbeler oyuna eklendi.
-- Ayarlar sahnesi eklendi.
-- Uzay Yolu sahnesi eklendi.
-- Gezegenler ile ilgili hatalar düzeltildi.
+- Kısayollar eklendi.
+- Ships sahnesi eklendi.
   
 ## Screenshots
 
