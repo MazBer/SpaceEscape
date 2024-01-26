@@ -4,26 +4,24 @@ https://drive.google.com/file/d/11i9g5Bdt3eMALcqPbxqyKp6RhFbx6Yqk/view?usp=shari
 ## Description
 #### ING
 
-I have created a simple game using Unity. It is the Beta 1.00 version and it has many shortcomings. I would be very happy if you could share your ideas.
+I have created a simple game using Unity. It is the Beta 1.01 version and it has many shortcomings. I would be very happy if you could share your ideas.
 
 #### TR
 
-Unity'yi kullanarak basit bir oyun geliştirdim. Beta 1.00 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
+Unity'yi kullanarak basit bir oyun geliştirdim. Beta 1.01 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
 
 ## News
 
 #### ING
 - UI has been updated.
-- Rank system added.
 - Ships scene improved.
-- Ruby spawn rates have been changed.
-- Total score added.
+- Total ruby added.
+- New ships added.
 #### TR
 - UI güncellendi.
-- Rütbe sistemi eklendi.
 - Gemiler sahnesi geliştirildi.
-- Yakut çıkma oranları değiştirildi.
-- Toplam skor eklendi.
+- Toplam yakut eklendi.
+- Yeni gemiler eklendi.
 ## Screenshots
 
 ![Main Menu](https://github.com/MazBer/SpaceEscape/assets/134061058/5a1bb320-07be-4544-861e-2c972819382e)
