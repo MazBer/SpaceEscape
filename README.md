@@ -10,6 +10,8 @@ I have created a simple game using Unity. It is the Beta 1.01 version and it has
 
 Unity'yi kullanarak basit bir oyun geliştirdim. Beta 1.01 sürümü olup birçok eksiği bulunmaktadır. Fikirlerinizi paylaşırsanız çok mutlu olurum.
 
+NOT: Özel güç butonu "Q"
+
 ## News
 
 #### ING
