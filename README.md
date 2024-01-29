@@ -25,9 +25,11 @@ NOT: Özel güç butonu "Q"
 - Toplam yakut eklendi.
 - Yeni gemiler eklendi.
 ## Screenshots
-
-![Main Menu](https://github.com/MazBer/SpaceEscape/assets/134061058/5a1bb320-07be-4544-861e-2c972819382e)
-![Gameplay](https://github.com/MazBer/SpaceEscape/assets/134061058/e6904046-370e-4deb-bbb0-91bb0e555556)
+![Main Menu](https://github.com/MazBer/SpaceEscape/assets/134061058/de38d52b-19a5-4a6c-8b14-01ea246149e5)
+![Classic Ship](https://github.com/MazBer/SpaceEscape/assets/134061058/7b6931c5-bffb-4ff8-988f-885b52dc77d0)
+![Falcon Ship](https://github.com/MazBer/SpaceEscape/assets/134061058/6e5ee42c-1a57-4fde-9bc1-3c9b369c36c1)
+![Beast Ship](https://github.com/MazBer/SpaceEscape/assets/134061058/2cb77f15-1090-48d1-a036-109e96204ac7)
+![Ships](https://github.com/MazBer/SpaceEscape/assets/134061058/168e6fb7-323a-42a0-b237-2ea13b8b43d2)
   
 ## Road Map
 
