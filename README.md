@@ -1,5 +1,5 @@
 # Space Escape
-https://drive.google.com/file/d/1CBe3jtvVgBoBXUuMazOzPsTyXXZ1him-/view?usp=sharing
+https://mazber.itch.io/space-escape
 
 ## Description
 #### ING
